@@ -2,6 +2,7 @@
 layout: post
 title: 100 Days of Asher
 date: 2015-06-16T22:30:00-04:00
+excerpt: "My son turned 100 days yesterday."
 tags: [Asher, video]
 sharing: true
 ---

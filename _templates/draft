@@ -1,4 +1,7 @@
 ---
 layout: {{ layout }}
 title: "{{ title }}"
+excerpt: ""
+tags: []
+sharing: true
 ---
