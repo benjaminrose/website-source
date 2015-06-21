@@ -19,11 +19,10 @@ My whole life, I have always had a creative outlet. Currently my main creative o
     <a href="https://farm3.staticflickr.com/2878/8885812468_06fc2b016f.jpg"><img src="https://farm3.staticflickr.com/2878/8885812468_06fc2b016f_b.jpg" alt="image"></a>
     <a href="https://farm6.staticflickr.com/5335/9467252787_69a96d1ee1.jpg"><img src="https://farm6.staticflickr.com/5335/9467252787_69a96d1ee1_b.jpg" alt="image"></a>
     <a href="https://farm1.staticflickr.com/491/18588424538_561765873d.jpg"><img src="https://farm1.staticflickr.com/491/18588424538_561765873d_b.jpg" alt="image"></a>
-    <figcaption>a few of my favorite photos</figcaption>
 </figure>
 
 ## Family
-Finally I get to the most exciting part of my life. I am [married] to the most caring and understanding women there is. We met in [Heathrow] on a class trip; it's an interesting story. We have a dog, Chance, who is a registered therapy dog with [Therapy Dog's Internationall][TDI]. You can follow him on [facebook][chance-fb]. Finally my son was born early spring 2015. For those who are fathers, I want to share a moment with you[^fathers]. One day, when my son was a few months old, while trying to put him to sleep, this song came on. It was a few days after my wife and I saw Ben Fold's live. Looking at my now sleeping child, thinking about my wife, and hearing this song, I was just overwhelmed by how lucky I am. I know that every father has had this moment, so remember how lucky you are.
+Finally I get to the most exciting part of my life. I am [married] to the most caring and understanding women there is. We met in [Heathrow] on a class trip; it's an interesting story. We have a dog, Chance, who is a registered therapy dog with [Therapy Dog's International][TDI]. You can follow him on [facebook][chance-fb]. Finally my son was born early spring 2015. For those who are fathers, I want to share a moment with you[^fathers]. One day, when my son was a few months old, while trying to put him to sleep, this song came on. It was a few days after my wife and I saw Ben Fold's live. Looking at my now sleeping child, thinking about my wife, and hearing this song, I was just overwhelmed by how lucky I am. I know that every father has had this moment, so remember how lucky you are.
 
 <iframe width="400" height="80" src="https://rd.io/i/QVRNyjdzRs0/" frameborder="0"></iframe>
 
@@ -44,10 +43,10 @@ Finally I get to the most exciting part of my life. I am [married] to the most c
 [^fathers]: If you are not then just listen to a cool song.
 
 <!-- me -->
-[nd-phys]: physics.nd.edu
+[nd-phys]: http://www.physics.nd.edu
 <!-- sci -->
 [sn]: https://www.flickr.com/photos/benmike/
-[observational cosmology]: google.com
+[observational cosmology]: https://en.wikipedia.org/wiki/Observational_cosmology
 [peter]: https://physics.nd.edu/people/faculty/peter-garnavich/
 [professional]: http://www.nd.edu/~brose3/
 <!-- tech -->
@@ -61,5 +60,5 @@ Finally I get to the most exciting part of my life. I am [married] to the most c
 <!-- family -->
 [married]: https://sites.google.com/site/benandcaitgetmarried/
 [Heathrow]: https://en.wikipedia.org/wiki/London_Heathrow_Airport
-[TDI]: www.tdi-dog.org
+[TDI]: http://www.tdi-dog.org
 [chance-fb]: https://www.facebook.com/ChanceTheTherapyDog
