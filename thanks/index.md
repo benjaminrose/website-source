@@ -14,6 +14,12 @@ My wife, then girlfriend, encouraged me to do this back in 2011. I did it for th
     - ability to do manual labor, even with a few aches and pains
     - the Internet, making far away family closer
     - God's provisions, daily & monthly[^1]
+* 2015-06-29
+    - off site server quality backups
+    - five feedings of milk
+    - the Internet in my pocket
+    - time to tinker
+    - my well behaved and lovable puppy
 
 ---------
 
