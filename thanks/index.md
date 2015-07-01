@@ -20,6 +20,12 @@ My wife, then girlfriend, encouraged me to do this back in 2011. I did it for th
     - the Internet in my pocket
     - time to tinker
     - my well behaved and lovable puppy
+* 2015-06-30
+    - help from others
+    - time and space to work
+    - music to energize
+    - new toys
+    - pain meds
 
 ---------
 
