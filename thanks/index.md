@@ -27,8 +27,25 @@ My wife, then girlfriend, encouraged me to do this back in 2011. I did it for th
     - new toys
     - pain meds
 
+## July 2015
+* 2015-07-01 
+    - easy trips to the grocery store
+    - human dignity
+    - human diversity
+    - delegation
+    - seeing hard work paying off
+* 2015-07-02
+    - growing grass
+    - super moms
+    - intro to an artist playlists on Apple Music[^2]
+    - a sleeping child by 10 pm
+    - lattes
+
 ---------
 
-[^1]: we did our budget and I am glad this one worked out, we will see later how August will work
+[^1]: We did our budget and I am glad this one worked out; we will see later how August will work.
+[^2]: There are those bands that you like one or two songs, via these playlists I have realized which of these band I actually like or if I only like these two. For example try [Fleetwood Mac] & [Steely Dan].
 
 [Psalm 118]: https://www.biblegateway.com/passage/?search=Psalm+118&version=NLT
+[Fleetwood Mac]: https://itunes.apple.com/us/playlist/intro-to-fleetwood-mac/idpl.647db163f3f84ccd9a839e5b6e4f34a2
+[Steely Dan]: https://itunes.apple.com/us/playlist/intro-to-steely-dan/idpl.26bff0306f2d4d04997d2df6bd9f968e
