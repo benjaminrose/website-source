@@ -51,8 +51,12 @@ My wife, then girlfriend, encouraged me to do this back in 2011. I did it for th
         - multiple cup of coffee days[^4]
         - family play time in the bath[^5]
         - firework free nights[^6]
-
----------
+* 2015-07-04 
+    - [coffee outside](https://www.flickr.com/gp/benmike/pP0977)
+    - family babysitters
+    - friends who care
+    - an almost 4 month old putting them self down for a nap
+    - my wife
 
 [^1]: We did our budget and I am glad this one worked out; we will see later how August will work.
 [^2]: There are those bands that you like one or two songs, via these playlists I have realized which of these band I actually like or if I only like these two. For example try [Fleetwood Mac] & [Steely Dan].
