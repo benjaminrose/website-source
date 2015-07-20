@@ -9,6 +9,11 @@ My wife, then girlfriend, encouraged me to do this back in 2011. I did it for th
 
 [Psalm 118]: https://www.biblegateway.com/passage/?search=Psalm+118&version=NLT
 
+*Update:* On July, 14, 2015 I changed the rules. Before I would not repeat, EVER![^repeat] That seems to extreme. From now on, I will not repeat from the last seven days, but will try not to repeat within a given month.
+
+
+# I am thankful for . . . 
+
 ## June 2015
 * 2015-06-28 
     - family walks
@@ -57,13 +62,109 @@ My wife, then girlfriend, encouraged me to do this back in 2011. I did it for th
     - friends who care
     - an almost 4 month old putting them self down for a nap
     - my wife
+* 2015-07-05
+    - emergency funds, so when things break you spend all day deciding how to fix it not how to pay for it
+    -  a place my dog can stay for a week and loves only slightly less then home
+    -  my son that loves his puppy so much he cries when the dog goes to the sitter[^cry]
+    -  parents who still want to take care of us
+    -  No more mice
+* 2015-07-06
+    - realizing I need to let go
+    - 4 hrs (out of 4.5hrs) of peaceful driving 
+    - multicultural worship
+    - free coffee
+    - reunions with friends
+* 2015-07-07
+    - remembering Spanish
+    - the grace of God that covers all sins
+    - closeness
+    - Asher is ok with strangers, most of the time [^strangers]
+    - passion to want more
+* 2015-07-08
+    - god making connections
+    - powerful wives
+    - a night to be a self sufficient adult with no responsibilities
+    - $20 from a friend 
+    - my son turning 4 months
+    - meeting Mama Mumford
+* 2015-07-09
+    - reconciliation 
+    - [the doxology](https://youtu.be/mxSgye88dXw)
+    - vegetables
+    - the power of the church universal
+    - empathy (is this the right one or is it sympathy)
+* 2015-07-10
+    - a home cooked meal
+    - theological discussions
+    - naps
+    - great baby sitters
+    - the prospect of getting work done
+    - being able to Planning for the future 
+    - finding a global church family that I can call my own. And one that wants to be a part of the Church universal.
+* 2015-07-11
+    - being a part of the inner circle in the correct timing. 
+    - grandmas holding my son
+    - my puppy eating
+    - my son pooping
+    - Chinese food
+    - baseball game with the family
+* 2015-07-12
+    - coming home to my lawn being mowed
+    - playing music with a group
+    - waking up with energy
+    - getting work done
+    - family stocking my fridge
+* 2015-07-13
+    - coming home to dinner being made
+    - unplanned date nights
+    - defining issues
+    - planning ways to fix issues
+    - a working dead bolt
+    - and some more I thought about as I feel asleep, but I can't remember
+* 2015-07-14
+    - finishing a long term project
+    - beer with dinner
+    - generational photos
+    - a healthy baby
+    - being able to figure out puzzling problems
+* 2015-07-15[^7-15]
+    - getting work done when I was not expecting to be able to
+    - not worrying about what I am not doing
+* 2015-07-16
+    - something about volunteering at the hospital
+    - something about planning for the future of the church
+    - something about how it feels to submitting papers for publication
+    - I just can't when we regress and have to deal with a screaming baby for 20 mins of every hour.
+* 2015-07-17
+    - my son rolling over back to front
+    - clean dishes
+    - finding a $1000
+    - felling like I can do it
+    - my son going to sleep at 8 (maybe a new bedtime?)
+* 2015-07-18
+    - being able to chill outside
+    - gifts from Europe
+    - being able to turn my brain off
+    - a quick responding iPad
+    - a day to read
+* 2015-07-19
+    - sleeping
+    - being able to play Ultimate Frisbee
+    - a house over my head, especially on hot days.
+    - sharing communion with my wife
+    - all boy tummy hang out time[^tummy]
 
+[^repeat]: It also just got hard to keep track of all of these thanks.
 [^1]: We did our budget and I am glad this one worked out; we will see later how August will work.
 [^2]: There are those bands that you like one or two songs, via these playlists I have realized which of these band I actually like or if I only like these two. For example try [Fleetwood Mac] & [Steely Dan].
 [^3]: Read fancy or fussy depending on what part of the Internet you are from.
 [^4]: On a budget we don't just make a lot of coffee. This really is a treat.
 [^5]: I wish I could place my finger on what part of this I really am thankful for. Maybe a less smelly kid? Maybe that fact we don' t do this parade every day?
 [^6]: Taking a negative and turning it to a positive! The kid and the dog do not like suden, random, loud noises.
+[^cry]: Ok so this cry was probably not for that, but maybe next time?
+[^strangers]: This seems like a healthy mix, not too much but not to little.
+[^7-15]: I did not write anything down, but it was a good day with many things to be thankful for. I did not want to interrupt my evening with an obligatory task.
+[^tummy]: ask my wife for the photo.
 
 [Fleetwood Mac]: https://itunes.apple.com/us/playlist/intro-to-fleetwood-mac/idpl.647db163f3f84ccd9a839e5b6e4f34a2
 [Steely Dan]: https://itunes.apple.com/us/playlist/intro-to-steely-dan/idpl.26bff0306f2d4d04997d2df6bd9f968e
