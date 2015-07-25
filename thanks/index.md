@@ -9,7 +9,10 @@ My wife, then girlfriend, encouraged me to do this back in 2011. I did it for th
 
 [Psalm 118]: https://www.biblegateway.com/passage/?search=Psalm+118&version=NLT
 
-*Update:* On July, 14, 2015 I changed the rules. Before I would not repeat, EVER![^repeat] That seems to extreme. From now on, I will not repeat from the last seven days, but will try not to repeat within a given month.
+----
+ **Update:** On July, 14, 2015 I changed the rules. Before I would not repeat, EVER![^repeat] That seems to extreme. From now on, I will not repeat from the last seven days, but will try not to repeat within a given month.
+
+----
 
 
 # I am thankful for . . . 
@@ -153,6 +156,25 @@ My wife, then girlfriend, encouraged me to do this back in 2011. I did it for th
     - a house over my head, especially on hot days.
     - sharing communion with my wife
     - all boy tummy hang out time[^tummy]
+* 2015-07-20
+    - the love that the mother of my child has for him
+    - watching the Dodgers on my TV
+    - August's budget coming together with plenty of time
+    - peace in my city
+* 2015-07-21
+    - three years of marriage
+    - five and a half years of knowing my wife
+    -  yes and all other forms of positive feedback
+* 2015-07-22
+    - friends who will help you do stupid things
+
+----
+**Update: 2015-07-23** I started this project as a challenge from my pastor; I continued it past a week because of how I felt emotionally. Now I am feeling more positive and this activity feels compulsory and forcing me to invest time in something that feels less needed and almost in the way. From here on, I will continue to look for things, but I will only add the big things to the list. I will also update the list at least once a week so this does not get lost in the shuffle of life in grad-school while having a baby.
+
+----
+
+* 2015-07-25
+   - batteries for when the power goes out
 
 [^repeat]: It also just got hard to keep track of all of these thanks.
 [^1]: We did our budget and I am glad this one worked out; we will see later how August will work.
