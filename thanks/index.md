@@ -176,6 +176,12 @@ My wife, then girlfriend, encouraged me to do this back in 2011. I did it for th
 * 2015-07-25
    - batteries for when the power goes out
 
+## August 2015
+* 2015-08-04
+    - opportunities 
+* 2015-08-08
+    - micro-dates[^microdates]
+
 [^repeat]: It also just got hard to keep track of all of these thanks.
 [^1]: We did our budget and I am glad this one worked out; we will see later how August will work.
 [^2]: There are those bands that you like one or two songs, via these playlists I have realized which of these band I actually like or if I only like these two. For example try [Fleetwood Mac] & [Steely Dan].
@@ -187,6 +193,7 @@ My wife, then girlfriend, encouraged me to do this back in 2011. I did it for th
 [^strangers]: This seems like a healthy mix, not too much but not to little.
 [^7-15]: I did not write anything down, but it was a good day with many things to be thankful for. I did not want to interrupt my evening with an obligatory task.
 [^tummy]: ask my wife for the photo.
+[^microdates] These are "~15 mins" long dates with no tech, no talking about current issues. We have to spend time together. It reminds us of each other so we get back to fighting the battles in front of us with renewed energy and resolve. 
 
 [Fleetwood Mac]: https://itunes.apple.com/us/playlist/intro-to-fleetwood-mac/idpl.647db163f3f84ccd9a839e5b6e4f34a2
 [Steely Dan]: https://itunes.apple.com/us/playlist/intro-to-steely-dan/idpl.26bff0306f2d4d04997d2df6bd9f968e
